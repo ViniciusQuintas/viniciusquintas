@@ -8,4 +8,4 @@
 
 * 🎯 Meu objetivo é criar soluções eficientes para problemas de programação, utilizando tecnologias relevantes para o desenvolvimento web.
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&layout=compact)](https://github.com/ViniciusQuintas/github-readme-stats) ![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusQuintas&hide=contribs&show_icons=true&theme=material-palenight)
+![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusQuintas&hide=contribs&show_icons=true&theme=material-palenight&card_width=400) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&layout=compact&card_width=400)
