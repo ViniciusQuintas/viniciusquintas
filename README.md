@@ -16,3 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&layout=compact&card_width=600&locale=pt-br" />
 </div>
 <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQuintas&repo=Code-Landing-Page&theme=material-palenight)](https://github.com/ViniciusQuintas/Code-Landing-Page)
