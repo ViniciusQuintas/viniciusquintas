@@ -13,6 +13,6 @@
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats-viniciusquintas.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&layout=compact&card_width=600&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats-viniciusquintas.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&layout=compact&card_width=600&locale=pt-br&hide=SCSS,Less,Ruby" />
 </div>
 <br>
