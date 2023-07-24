@@ -9,7 +9,7 @@
 * 🎯 Meu objetivo é criar soluções eficientes para problemas de programação, utilizando tecnologias relevantes para o desenvolvimento web.
 <br>
 <div align="center" >
-  <img align="center" src="https://github-readme-stats-viniciusquintas.vercel.app/api?username=ViniciusQuintas&hide=contribs&show_icons=true&theme=material-palenight&card_width=600&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats-viniciusquintas.vercel.app/api?username=ViniciusQuintas&hide=contribs&show_icons=true&theme=material-palenight&card_width=600&locale=pt-br&count_private=true&rank_icon=github" />
 </div>
 <br>
 <div align="center">
