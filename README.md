@@ -11,7 +11,7 @@
 
 <div align="left">
 
-![](https://github-readme-stats-viniciusquintas.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&hide_border=true&layout=compact&card_width=500&hide=SCSS,Less,Ruby)<br/>
+![](https://github-readme-stats-viniciusquintas.vercel.app/api/top-langs/?username=ViniciusQuintas&theme=material-palenight&hide_border=true&layout=compact&card_width=500&hide=SCSS,Less,Ruby,blade,php)<br/>
 
 </div>
 
