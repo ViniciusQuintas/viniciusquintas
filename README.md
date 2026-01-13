@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinícius Quintas</h1>
 
-- 🌱 I’m currently learning **Dart and Flutter for mobile development while enhancing my skills in Next.js, TypeScript, Clean Architecture, SOLID principles, Design Patterns, and TDD.**
+- 🌱 I’m currently deepening my knowledge of **Algorithms and Data structures while enhancing my skills in Next.js, TypeScript, Clean Architecture, SOLID principles, Design Patterns, and TDD.**
 
 - 👨‍💻 Explore my portfolio to see some of my highlighted projects [https://vinicius-portfolio-omega.vercel.app/](https://vinicius-portfolio-omega.vercel.app/)
 
