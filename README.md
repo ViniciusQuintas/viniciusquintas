@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently deepening my knowledge of **Algorithms and Data structures while enhancing my skills in Next.js, TypeScript, Clean Architecture, SOLID principles, Design Patterns, and TDD.**
 
+
 - 👨‍💻 Explore my portfolio to see some of my highlighted projects [https://vinicius-portfolio-omega.vercel.app/](https://vinicius-portfolio-omega.vercel.app/)
 
 - 📫 How to reach me **viniciusquintas744@gmail.com**
